@@ -19,4 +19,3 @@ An **Android app** for **bulk SMS messaging**, allowing users to send messages t
 1. download and install the apk file
 2. run the .aab file in any android emulator
 3. import tbe project at MIT app inventor with the help of .aia file and also integrate .aix file  contact  extension
-do watch the tutorial video
